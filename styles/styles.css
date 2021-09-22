@@ -1,0 +1,15 @@
+.color-align-container .player-alignment {
+	display: flex;
+    justify-content: flex-start;
+    align-items: center;
+	
+}
+
+.color-align-container .player-alignment .alignment-holder {
+    width: 60px;
+    height: 60px;
+}
+.color-align-container .player-alignment label {
+    padding-left: 20px;
+    font-size: 30px;
+}
